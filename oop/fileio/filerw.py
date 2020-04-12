@@ -1,0 +1,5 @@
+f = open('abc.txt','a')
+f.write('Mohammad\n')
+f.write('Hussain\n')
+f.write('Sheikh\n')
+f.close()
